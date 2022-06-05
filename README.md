@@ -1,1 +1,5 @@
-# Alura-Challenge.JuegoAhorcado
+Juego del Ahorcado
+
+Alura - Challenge
+
+Segundo desafío
